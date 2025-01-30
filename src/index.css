@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.capitalize-text {
+  text-transform: capitalize;
+  font-family: inherit;
+}
