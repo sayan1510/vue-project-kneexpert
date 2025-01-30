@@ -39,7 +39,7 @@
 import PersonalDetails from "./my_profile_components/PersonalDetails.vue";
 import ProfessionalDetails from "./my_profile_components/ProfessionalDetails.vue";
 import PerformanceStatistics from "./my_profile_components/PerformanceStatistics.vue";
-import VerificationStatus from "./my_profile_components/verificationStatus.vue";
+import VerificationStatus from "./my_profile_components/VerificationStatus.vue";
 import EarningDetails from "./my_profile_components/EarningDetails.vue";
 import AvailabilitySettings from "./my_profile_components/AvailabilitySettings.vue";
 
@@ -54,5 +54,9 @@ const completeVerification = () => {
 }
 .text-muted {
   color: #6c757d;
+}
+.capitalize-text {
+  text-transform: capitalize;
+  font-family: inherit;
 }
 </style>

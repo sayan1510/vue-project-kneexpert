@@ -37,10 +37,6 @@
 </template>
 
 <script setup>
-import AvailabilitySettings from "./my_profile_components/AvailabilitySettings.vue";
-import EarningDetails from "./my_profile_components/EarningDetails.vue";
-import PerformanceStatistics from "./my_profile_components/PerformanceStatistics.vue";
-import VerificationStatus from "./my_profile_components/verificationStatus.vue";
 import MediaUploadComp from "./patient_details_component/mediaUploadComp.vue";
 import MedicalhistoryComp from "./patient_details_component/MedicalhistoryComp.vue";
 import OrthopedicianReferenceComp from "./patient_details_component/OrthopedicianReferenceComp.vue";
