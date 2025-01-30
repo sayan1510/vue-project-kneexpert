@@ -38,7 +38,7 @@
 
 <script setup>
 import MediaUploadComp from "./patient_details_component/mediaUploadComp.vue";
-import MedicalhistoryComp from "./patient_details_component/MedicalhistoryComp.vue";
+import MedicalhistoryComp from "./patient_details_component/MedicalHistoryComp.vue";
 import OrthopedicianReferenceComp from "./patient_details_component/OrthopedicianReferenceComp.vue";
 import PatientInfoCardComp from "./patient_details_component/PatientInfoCardComp.vue";
 import PatientLocationComp from "./patient_details_component/PatientLocationComp.vue";
