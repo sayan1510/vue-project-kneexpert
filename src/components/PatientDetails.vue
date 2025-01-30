@@ -37,7 +37,7 @@
 </template>
 
 <script setup>
-import MediaUploadComp from "./patient_details_component/mediaUploadComp.vue";
+import MediaUploadComp from "./patient_details_component/MediaUploadComp.vue";
 import MedicalhistoryComp from "./patient_details_component/MedicalHistoryComp.vue";
 import OrthopedicianReferenceComp from "./patient_details_component/OrthopedicianReferenceComp.vue";
 import PatientInfoCardComp from "./patient_details_component/PatientInfoCardComp.vue";
